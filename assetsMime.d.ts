@@ -1,0 +1,7 @@
+declare module '*.png'
+declare module '*.jpg'
+declare module '*.avif'
+declare module '*.gif'
+declare module '*.m4a'
+declare module '*.ttf'
+declare module '*.mp3'
